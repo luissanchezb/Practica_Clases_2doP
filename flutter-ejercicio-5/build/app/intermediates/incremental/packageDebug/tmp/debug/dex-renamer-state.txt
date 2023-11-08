@@ -1,0 +1,4 @@
+#Tue Nov 07 23:17:26 COT 2023
+base.0=C\:\\Users\\Usuario\\Desktop\\flutter-ejercicio-5-listview-canciones-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
